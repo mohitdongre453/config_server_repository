@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/mohitdongre453/Order_processing_system.git
+          uri: https://github.com/mohitdongre453/config_server_repository.git
           default-label: main
           clone-on-start: true 
           search-paths: configs/9th_march_2026
